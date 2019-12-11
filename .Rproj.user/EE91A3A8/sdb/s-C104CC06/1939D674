@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Project roc\"\n---\n\nen esta pagina que sera la principal ira el pronostico\n\n<center>![](https://scontent.flim18-1.fna.fbcdn.net/v/t1.0-9/80029832_441546226746892_1128765294274150400_n.png?_nc_cat=104&_nc_ohc=evRSzbU9X0EAQkuoA4C0hhYU5r3WHNkCqhjKhen1BK4t3pKFo14OmX1XQ&_nc_ht=scontent.flim18-1.fna&oh=973f162af0c0d99dfcc230d4db364c1c&oe=5E791979)</center>\n\n<center> [Centro de pronostico del tiempo atmosferico UNALM][1] [<img src=\"http://live.staticflickr.com/65535/49194228253_1db7727ba4_n.jpg\" width=\"50\" height=\"50\" />](https://www.facebook.com/CPTAUnalm)</center>\n\n[1]: https://www.facebook.com/CPTAUnalm\n\n",
+    "created" : 1575599428099.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "198946061",
+    "id" : "1939D674",
+    "lastKnownWriteTime" : 1576080972,
+    "last_content_update" : 1576080972430,
+    "path" : "~/project roc/project-roc.github.io/index.Rmd",
+    "project_path" : "index.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

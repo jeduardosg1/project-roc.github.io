@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "name: \"my-website\"\nnavbar:\n  title: \"My Website\"\n  left:\n    - text: \"Home\"\n      href: index.html\n    - text: \"climatologias\"\n      href: climat.html\n    - text: \"About\"\n      href: about.html",
+    "created" : 1575599424559.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "583874871",
+    "id" : "BCF05BB8",
+    "lastKnownWriteTime" : 1576079955,
+    "last_content_update" : 1576079955285,
+    "path" : "~/project roc/project-roc.github.io/_site.yml",
+    "project_path" : "_site.yml",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "yaml"
+}

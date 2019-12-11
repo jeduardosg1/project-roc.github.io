@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Sobre nosotros\"\n---\n\nesta pagina es una maqueta para lo que sera la pagina del proyecto roc.",
+    "created" : 1575599426792.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1802500855",
+    "id" : "52601B4D",
+    "lastKnownWriteTime" : 1575908479,
+    "last_content_update" : 1575908479888,
+    "path" : "~/project roc/project-roc.github.io/about.Rmd",
+    "project_path" : "about.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 4,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
