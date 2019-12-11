@@ -1,0 +1,10 @@
+name: "my-website"
+navbar:
+  title: "My Website"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "climatologias"
+      href: climat.html
+    - text: "About"
+      href: about.html

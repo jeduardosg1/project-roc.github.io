@@ -1,0 +1,5 @@
+---
+title: "Sobre nosotros"
+---
+
+esta pagina es una maqueta para lo que sera la pagina del proyecto roc.
